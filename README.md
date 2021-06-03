@@ -1,6 +1,6 @@
 
   <b>
-I am Satyam. I am a noob ( newcomer ) developer. I was born on 7th September 2003. I am a 17 years old boy.  I am studying in 12th standard in Bishop Conrad Sr Sec School Dohna I am living in Bareilly , Uttar Pradesh India. I know Python and HTML base only.
+I am Satyam. I am a noob developer. I was born on 7th September 2003. I am a 17 years old boy. I know Python and HTML base only.
   </b>
 </p>
 
